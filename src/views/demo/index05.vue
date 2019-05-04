@@ -38,7 +38,8 @@
             }
         },
         mounted() {
-            /*let body = document.querySelector('body')
+            /*test
+			let body = document.querySelector('body')
             let widthScale = 0.21
             let width = body.clientWidth * widthScale
             let iframe1 = document.getElementsByName('iframe1')[0]
