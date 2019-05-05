@@ -38,7 +38,7 @@
             }
         },
         mounted() {
-            /*test
+            /*test2
 			let body = document.querySelector('body')
             let widthScale = 0.21
             let width = body.clientWidth * widthScale
